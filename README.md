@@ -1,4 +1,4 @@
-# Управвление задачами
+# Управление задачами
 
 - POST api/tasks - добавление задачи
 - GET api/tasks - список задач с пагинацией, фильтр finished=true|false, сортировка sort=title|finished_time
